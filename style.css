@@ -1,0 +1,26 @@
+
+body{
+    margin-top: 250px;
+    text-align: center;
+	background-color :#fad400;
+    color:#000000 ;
+	font-weight: bold;
+	font-family: arial;
+    text-transform: uppercase;
+	
+}
+.btn{
+    font-weight: bold;
+	font-family: arial;
+    text-transform: uppercase;
+	display: inline-block;
+	background: #0d6900;
+	color:rgb(0, 0, 0);
+	padding:8px 30px;
+	margin: 30px 0;	
+	border-radius: 30px;
+	transition: background 0.5s;
+}
+.btn:hover{
+	background: #d80000;
+}
